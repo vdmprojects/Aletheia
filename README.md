@@ -1,6 +1,6 @@
 Aletheia
 
-A blockchain of evidence for digital media for certainty in the post truth media age.
+A blockchain of evidence for digital media, facilitating certainty in the post-truth media age.
 
 Deepfakes. Lyrebird. AI-Enhanced digital Editing. How can we be sure that the media we are looking at is a 
 true representation of real events?

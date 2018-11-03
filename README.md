@@ -31,6 +31,19 @@ reduce witness bias and verify testimonial statements
 
 ...as well as many more potential use cases.
 
+The development roadmap is as follows:
+
+**beancoin - doghouse (toy) - toolchain / library selection and debugging, code calisthenics**
+cubez - Rancho (toy) - Proof of concept for some functionality and token types
+Aletheia - Park Bench (POC)
+Aletheia - Couch - Pre-Alpha (architecture)
+Aletheia - Motel - signing Alpha
+Aletheia - Casa - Witnessing apha
+Aletheia - Hacienda - Release Alpha
+Aletheia - ? - Beta public release on testnet
+Aletheia - ? - ?
+
+
 
 
 

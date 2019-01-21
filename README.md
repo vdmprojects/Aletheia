@@ -26,9 +26,9 @@ reduce witness bias and verify testimonial statements
 
 The development roadmap is as follows:
 
-**beancoin - doghouse (toy) - toolchain / library selection and debugging** https://github.com/CT-Smyth/Beancoin
+**beancoin - doghouse (toy) - toolchain / library selection and debugging** https://github.com/vdmprojects/BEANS
 
-cubez - Rancho (toy) - Proof of concept for some functionality and token types https://github.com/CT-Smyth/Cubez
+cubez - Rancho (toy) - Proof of concept for some functionality and token types https://github.com/vdmprojects/CUBEZ
 
 Aletheia - Park Bench (POC)
 

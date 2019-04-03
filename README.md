@@ -30,7 +30,7 @@ The development roadmap is as follows:
 
 beancoin - doghouse (toy) - toolchain / library selection and debugging https://github.com/vdmprojects/BEANS / FINISHED!!!
 
-**cubez - Rancho (toy) - Proof of concept for some functionality and token types https://github.com/vdmprojects/CUBEZ 
+**cubez - Rancho (toy) - Proof of concept for some functionality and token types** https://github.com/vdmprojects/CUBEZ 
 
 Aletheia - Park Bench (POC)
 
